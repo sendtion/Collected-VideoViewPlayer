@@ -32,7 +32,12 @@
   * 作者：[ashqal](https://github.com/ashqal)
   * 简介：Android平台的360度全景播放器，VR视频播放器
   * 地址：https://github.com/ashqal/MD360Player4Android
- 
+
+### 6、ArtPlayer
+  * 中文名：ArtPlayer
+  * 作者：[maiwenchang](https://github.com/maiwenchang)
+  * 简介：这是一个灵活的视频播放器。 MediaPlayer与VideoView完全分开，可以替换为其他播放器内核，如ExoPlayer和ijkPlayer。
+  * 地址：https://github.com/maiwenchang/ArtPlayer
 
 ### 友情说明：
   * 欢迎大家补充！
