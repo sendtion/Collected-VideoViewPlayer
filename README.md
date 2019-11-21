@@ -38,6 +38,12 @@
   * 作者：[maiwenchang](https://github.com/maiwenchang)
   * 简介：这是一个灵活的视频播放器。 MediaPlayer与VideoView完全分开，可以替换为其他播放器内核，如ExoPlayer和ijkPlayer。
   * 地址：https://github.com/maiwenchang/ArtPlayer
+  
+### 6、Vlc-sdk-lib
+  * 中文名：VLC播放器
+  * 作者：[mengzhidaren](https://github.com/mengzhidaren)
+  * 简介：Vlc sdk二次封装，可以切换vlc和ijk播放内核，集成方便，用法简单。
+  * 地址：https://github.com/mengzhidaren/Vlc-sdk-lib
 
 ### 友情说明：
   * 欢迎大家补充！
